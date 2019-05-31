@@ -1,0 +1,10 @@
+C:\Users\erica\source\repos\Ass-1\Ass-1\bin\Debug\Ass-1.exe.config
+C:\Users\erica\source\repos\Ass-1\Ass-1\bin\Debug\Ass-1.exe
+C:\Users\erica\source\repos\Ass-1\Ass-1\bin\Debug\Ass-1.pdb
+C:\Users\erica\source\repos\Ass-1\Ass-1\obj\Debug\Ass_1.Form1.resources
+C:\Users\erica\source\repos\Ass-1\Ass-1\obj\Debug\Ass_1.Properties.Resources.resources
+C:\Users\erica\source\repos\Ass-1\Ass-1\obj\Debug\Ass-1.csproj.GenerateResource.cache
+C:\Users\erica\source\repos\Ass-1\Ass-1\obj\Debug\Ass-1.csproj.CoreCompileInputs.cache
+C:\Users\erica\source\repos\Ass-1\Ass-1\obj\Debug\Ass-1.exe
+C:\Users\erica\source\repos\Ass-1\Ass-1\obj\Debug\Ass-1.pdb
+C:\Users\erica\source\repos\Ass-1\Ass-1\obj\Debug\Ass-1.csprojAssemblyReference.cache
